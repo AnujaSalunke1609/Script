@@ -1,2 +1,2 @@
-To run run below comamnd
+To run hit below comamnd
 bash python.sh
